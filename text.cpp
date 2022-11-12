@@ -302,18 +302,8 @@ int main()
 			//	}
 		
 			//}
-		
-		
-		
-
-
-		
-	
-		
-		
 	}
  
-
 	getchar();
 	closegraph();
 }
