@@ -303,7 +303,7 @@ int main()
 		
 			//}
 	}
- 
+
 	getchar();
 	closegraph();
 }
